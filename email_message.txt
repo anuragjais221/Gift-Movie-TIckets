@@ -1,0 +1,12 @@
+TO: anuragjais111@gmail.com
+FROM: anuragjais111@gmail.com
+Subject: Ticket Booking Confirmation
+
+Anurag- The ticket booking is successfull
+Ticket Numbers: 
+1 2 3 4 
+Total tickets booked 4
+Ticket type = PREMIUM
+
+Thanks for booking ticket
+Have a great day.
